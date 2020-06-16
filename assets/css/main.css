@@ -1360,16 +1360,14 @@ body.is-loading #bg:before {
 #header .logo {
   width: 8rem;
   height: 8rem;
-  line-height: 5.5rem;
-  border: solid 1px #ffffff;
   border-radius: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 #header .logo img {
-  width: 9rem;
-  height: 9rem;
+  width: 8rem;
+  height: 8rem;
   border-radius: 50%;
 }
 
